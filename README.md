@@ -1,10 +1,6 @@
 # 🐦 Flyzona - Bird Adventure Web Application
 
-Flyzona is a fun and educational web application designed for bird enthusiasts and families.  
-It provides a platform where visitors can register, log in, and explore exclusive content about the zoo, while administrators can manage users through a secure dashboard.
-This project combines **user authentication, admin controls, and member-exclusive pages** to simulate how a modern zoo might manage its visitors and events online.
-
-To ensure security, user passwords are protected using **hashing** before being stored in the database. 
+Flyzona is a zoo-themed web application that simulates a real modern zoo system. It includes user registration, login with password hashing, an admin dashboard for managing users, and member-exclusive access to galleries, events, and fun facts.
 
 ---
 
