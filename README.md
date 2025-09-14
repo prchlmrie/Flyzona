@@ -1,6 +1,6 @@
-# Flyzona – Modern Zoo Web Application with PHP & phpMyAdmin
+# Flyzona – Modern Zoo Web-Based with PHP & phpMyAdmin
 
-Flyzona is a zoo-themed web application that simulates a real modern zoo system. It includes user registration, login with password hashing, an admin dashboard for managing users, and member-exclusive access to galleries, events, and fun facts.
+Flyzona is a zoo-themed web-based that simulates a real modern zoo system. It includes user registration, login with password hashing, an admin dashboard for managing users, and member-exclusive access to galleries, events, and fun facts.
 
 ---
 
