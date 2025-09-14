@@ -1,24 +1,24 @@
-# 🐦 Flyzona - Bird Adventure Web Application
+# Flyzona – Modern Zoo Web Application with PHP & phpMyAdmin
 
 Flyzona is a zoo-themed web application that simulates a real modern zoo system. It includes user registration, login with password hashing, an admin dashboard for managing users, and member-exclusive access to galleries, events, and fun facts.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🌍 Public
+### Public
 - **Home Page** – Welcome section with an overview of Flyzona.  
 - **Gallery** – Displays images of birds in the zoo.  
 - **Events Page** – Showcases upcoming events and activities.  
 - **Info Sections** – Learn about birds, fun facts, and activities.
 
-### 👤 User System
+### User System
 - **Register** – Users can create an account.  
 - **Login** – Users can log in as either:
   - **Admin**
   - **Member**
 
-### 🛠️ Admin Features
+### Admin Features
 - **Admin Dashboard** – Overview of system activity.  
 - **View Users** – Display all registered users.  
 - **Edit Users** – Update first name and last name.  
@@ -26,7 +26,7 @@ Flyzona is a zoo-themed web application that simulates a real modern zoo system.
 - **Change Password** – Secure password update functionality.  
 - **Search** – Easily find specific users.
 
-### 🎟️ Member Features
+### Member Features
 - **Exclusive Access** – Members get access to private content.  
 - **Photo Opportunities** – Special sections for members.  
 - **Special Events** – Access to bird feeding, shows, and activities.  
@@ -35,14 +35,14 @@ Flyzona is a zoo-themed web application that simulates a real modern zoo system.
 
 ---
 
-## 🖥️ Technologies Used
+## Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript  
 - **Backend**: PHP  
 - **Database**: MySQL (via phpMyAdmin)  
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 - Homepage
   
 ![Flyzona Homepage](https://github.com/user-attachments/assets/cc1481dc-349c-4203-b907-dc0a7a9596b4)
