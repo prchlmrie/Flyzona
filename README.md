@@ -72,13 +72,6 @@ Flyzona is a zoo-themed web application that simulates a real modern zoo system.
   
 ![AdminPage](https://github.com/user-attachments/assets/46783db2-229e-4e1a-9f07-0a24027ba0f3)
 
-- Edit and Delete Page
-  
-![EditUserPage](https://github.com/user-attachments/assets/0eb7fc12-348b-4c0c-9edc-96504c653089)
-![EditUserPage](https://github.com/user-attachments/assets/c4b7ac25-bc88-4a84-b330-9a92d15d128d)
-![DeleteUserPage](https://github.com/user-attachments/assets/9c18270e-9ad9-42e6-b153-fc87fecf1647)
-![DeleteUserPage](https://github.com/user-attachments/assets/8a076a4c-5a2b-4f53-964a-af9ce4103923)
-
 
 
 
